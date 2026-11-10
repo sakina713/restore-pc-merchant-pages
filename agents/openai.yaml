@@ -1,0 +1,4 @@
+interface:
+  display_name: "还原 PC 商家端页面"
+  short_description: "按组件库规范还原 PC 商家后台页面并完成组件、变量与视觉验收"
+  default_prompt: "使用 $restore-pc-merchant-pages 按现有 PC 商家版组件库还原这个页面。"
